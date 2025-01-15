@@ -11,7 +11,7 @@ Welcome to my simple Tic-Tac-Toe game! It's a fun little project where you play 
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/anousonephyakeo/tic_toc/tree/main
+   git clone https://github.com/anousonephyakeo/tic_toc.git
    cd tic-tac-toe-c
    ```
 
